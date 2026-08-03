@@ -1,4 +1,4 @@
-def separate_by_length(words, limi):
+def separate_by_length(words, limiT):
     short_words = []
     long_words = []
 
